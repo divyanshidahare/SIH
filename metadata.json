@@ -1,0 +1,7 @@
+{
+  "name": "कलाMITRA",
+  "description": "Your AI Partner for Every Craft - Virtual Business Assistant for Artisans, Weavers, and Handicraft Makers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
